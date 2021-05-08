@@ -1,1 +1,1 @@
-this folder contains the solution for the 'permissions' exercice.
+shell_permissions task
